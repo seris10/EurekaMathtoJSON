@@ -1,0 +1,91 @@
+{
+  "moduleNumber": "",                
+  "lessonNumber": "",
+  "title": "",
+  "standards": [
+    { "code": "", "description": "" }
+  ],
+  "foundationalLessons": "",         
+  "materials": {
+    "classroomMaterials": [""],
+    "materialsRequiringPreparation": [
+      { "name": "", "details": "" }
+    ],
+    "preparationNotes": [""]
+  },
+  "fluencyActivities": [
+    { "name": "", "standard": "", "duration": "" }
+  ],
+  "lessonStructure": {
+    "fluencyPractice": "",
+    "applicationProblem": "",
+    "conceptDevelopment": "",
+    "studentDebrief": "",
+    "totalTime": ""
+  },
+  "applicationProblem": {
+    "problem": "",
+    "note": ""
+  },
+  "conceptDevelopment": {
+    "materials": [""],
+    "problems": [
+      { "number": 1, "parts": [""], "details": "" }
+    ]
+  },
+  "vocabulary": {
+    "5thGradeVocabulary": [
+      { "term": "", "definition": "", "spanishTerm": "", "spanishDefinition": "" }
+    ],
+    "foundationalVocabulary": [
+      { "term": "", "definition": "", "spanishTerm": "", "spanishDefinition": "" }
+    ]
+  },
+  "problemSet": [
+    {
+      "questionNumber": 1,
+      "question": "",
+      "parts": [
+        { "part": "a", "instruction": "" }
+      ]
+    }
+  ],
+  "exitTicket": [
+    { "questionNumber": 1, "question": "", "details": "" }
+  ],
+  "studentDebrief": {
+    "lessonObjective": "",
+    "discussionQuestions": [""]
+  },
+  "multipleMeansOfRepresentation": [""],
+  "alternativeMaterialsAndMethods": [
+    {
+      "title": "",
+      "materials": [""],
+      "preparation": "",
+      "implementation": ""
+    }
+  ],
+  "FoundationalGaps": [
+    "Grade 3 NBT – misunderstood regrouping in multi-digit addition",
+    "Grade 4 NF – weak unit-fraction conception affects scaling fractions"
+  ],
+  "RealLifeConnections": "Archaeologists use base-10 logarithmic scales to date fossils; gamers resize textures by powers of two in Minecraft.",
+  "CreativeActivityIdeas": "Students build a cardboard place-value slide-rule to visualise ×10 shifts.",
+  "Storytelling": "Tell how Al-Khwarizmi’s 9th-century work on decimal notation led to efficient trade across the Silk Road.",
+  "TurnAndTalk": [
+    "Before Problem 2, ask partners to predict the product pattern when shifting a factor one place left.",
+    "After Fluency #3, partners critique each other's mental-math strategy."
+  ],
+  "TeacherQuotes": [
+    "\"Notice how one jump left multiplies by ten—it's a place-value super-power.\"",
+    "\"If the pattern breaks, mathematics is telling us we missed something—let’s listen.\""
+  ],
+  "ChecksForUnderstanding": [
+    "Show Call – Display two student methods and have class vote on accuracy.",
+    "Warm Call – How many tens are in 4,000?",
+    "Everybody Writes – Explain why 0.3 × 10 = 3 without a calculator.",
+    "Cold Call – Predict the value of 7 × 10²."
+  ]
+
+}
